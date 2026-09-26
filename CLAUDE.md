@@ -2,7 +2,8 @@
 
 This is Akshat's research workspace for evaluating optional AI-coding workflow tools around
 Claude Code and Codex on Windows 11. It records what a tool is for, whether it is worth trying,
-and the condition that would justify adopting it.
+and the condition that would justify adopting it. Git `origin` is the private
+<https://github.com/akshatksingh18/workflow-optimization> repository.
 
 **Status:** Research/evaluation — no optional workflow tool or model gateway is currently adopted.
 
